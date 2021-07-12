@@ -1,5 +1,4 @@
 # Incident-Impact-Prediction
-# Incident-Impact-Prediction
 ### Project Summary 
 #### Requirement 
 An organisation operating in IT-enabled business segment receives IT incidents/tickets, which are handled to best practice by ITIL framework with incident management, problem management, change management and configuration management processes. This management is looking for ways to improve the incident management process.  Machine learning looks prospective to improve ITSM processes through prediction and automation.
